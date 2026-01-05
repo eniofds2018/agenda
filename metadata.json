@@ -1,0 +1,8 @@
+{
+  "name": "AgendaBoa Clone",
+  "description": "A comprehensive business management tool for service providers, featuring order tracking, scheduling, financial management, and advanced analytics with a clean mobile-first UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
